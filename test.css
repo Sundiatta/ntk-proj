@@ -1,0 +1,47 @@
+#wrap{
+    width: 80em;
+    height: 50em;
+    margin: 0 auto;
+    margin-top: 5em;
+    border: 1px solid black;
+}
+
+#test-wrap{
+    width: 65em;
+    margin: 0 auto;
+    margin-top: 2em;
+    border: 1px solid black;
+}
+
+#test-main{
+    display: flex;
+}
+
+.test-block{
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+#block{
+    width: 260px;
+    height: 800px
+}
+
+#block-2{
+    width: 350px;
+    height: 400px;
+}
+
+#block-3{
+    width: 300px;
+    height: 400px;
+}
+
+#block-4{
+    width: 685px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: -20em;
+    margin-left: 20.5em;
+    border: 1px solid black;
+}

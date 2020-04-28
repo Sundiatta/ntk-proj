@@ -1,0 +1,14 @@
+body{
+    overflow: hidden;
+}
+
+#wrap{
+    width: 50em;
+    margin: 0 auto;
+}
+
+#container{
+    width: 800px;
+    height: 700px;
+    margin: 0 auto;
+}
