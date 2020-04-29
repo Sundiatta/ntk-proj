@@ -31,7 +31,7 @@ function draw(){
 
 class Particles{
     constructor(){
-        this.pos = createVector(random(width/2), random(height/2));
+        this.pos = createVector(random(width), random(height));
         this.vel = createVector(random(-2, 2), random(-2, 2));
     }
 
@@ -46,11 +46,11 @@ class Particles{
     }
 
     checkEdges(){
-        if(this.pos.x <= 200 || this.pos.x >= width-200){
+        if(this.pos.x <= 0 || this.pos.x >= width){
             this.vel.x *= -1;
         }
 
-        if(this.pos.y <= 100 || this.pos.y >= height-100){
+        if(this.pos.y <= 0 || this.pos.y >= height){
             this.vel.y *= -1;
         }
     }
