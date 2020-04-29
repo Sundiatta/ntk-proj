@@ -1,0 +1,273 @@
+{
+    "regions":[
+        {
+            "name":"ESPN",
+            "region":"west",
+            "state":"nevada"
+        },
+        {
+            "name":"Abigail Baker",
+            "region":"northeast",
+            "state":"new york"
+        },
+        {
+            "name":"Tony USA Greatest Nation on Earth",
+            "region":"northeast",
+            "state":"new york"
+        },
+        {
+            "name":"Larry O’Connor",
+            "region":"south",
+            "state":"district of columbia"
+        },
+        {
+            "name":"Thomas O'Connor",
+            "region":"west",
+            "state":"california"
+        },
+        {
+            "name":"Linda Sarsour",
+            "region":"northeast",
+            "state":"new york"   
+        },
+        {
+            "name":"Bill Cunningham",
+            "region":"midwest",
+            "state":"ohio"
+        },
+        {
+            "name":"CrossPolitic",
+            "region":"west",
+            "state":"idaho"
+        },
+        {
+            "name":"Will McAvoy",
+            "region":"northeast",
+            "state":"new york"
+        },
+        {
+            "name":"PolitixGal",
+            "region":"west",
+            "state":"california"
+        },
+        {
+            "name":"LivePDDave",
+            "region":"west",
+            "state":"colorado"
+        },
+        {
+            "name":"Roger Fritz",
+            "region":"midwest",
+            "state":"ohio"
+        },
+        {
+            "name":"John Cardillo",
+            "region":"south",
+            "state":"florida"
+        },
+        {
+            "name":"All American Girl",
+            "region":"midwest",
+            "state":"wisconsin"
+        },
+        {
+            "name":"Repaired",
+            "region":"northeast",
+            "state":"rhode island"
+        },
+        {
+            "name":"NotKennyRogers",
+            "region":"west",
+            "state":"california"
+        },
+        {
+            "name":"NDD",
+            "region":"west",
+            "state":"nevada"
+        }, 
+        {
+            "name":"Charlie Daniels",
+            "region":"south",
+            "state":"tennessee"
+        },
+        {
+            "name":"JD Rucker",
+            "region":"west",
+            "state":"california"
+        }, 
+        {
+            "name":"Ray Jackson",
+            "region":"west",
+            "state":"nevada"
+        },
+        {
+            "name":"Bud...Trump2020",
+            "region":"west",
+            "state":"california"
+        },
+        {
+            "name": "Zeus No Collusion, No Obstruction",
+            "region":"midwest",
+            "state":"illinois"
+        },
+        {
+            "name":"Emerald Robison",
+            "region":"south",
+            "state":"district of columbia"
+        },
+        {
+            "name":"Michael David Smith",
+            "region":"midwest",
+            "state":"illinois"
+        },
+        {
+            "name":"Sandra",
+            "region":"south",
+            "state":"texas"
+        },
+        {
+            "name":"DL",
+            "region":"west",
+            "state":"california"
+        },
+        {
+            "name":"DMICMedia",
+            "region":"midwest",
+            "state":"illinois"
+        },
+        {
+            "name":"Jack Ralph",
+            "region":"west",
+            "state":"nevada"
+        },
+        {
+            "name":"Daily Caller",
+            "region":"south",
+            "state":"district of columbia"
+        },
+        {
+            "name":"Lynn Shaw",
+            "region":"northeast",
+            "state":"new york"
+        },
+        {
+            "name":"Rachel Bachman",
+            "region":"northeast",
+            "state":"new york"
+        },
+        {
+            "name":"Laura Ingraham",
+            "region":"south",
+            "state":"district of columbia"
+        }, 
+        {
+            "name": "Robert Barnes",
+            "region":"west",
+            "state":"nevada"
+        },
+        {
+            "name":"Darren Rovell",
+            "region":"northeast",
+            "state":"new york"
+        },
+        {
+            "name":"Ben",
+            "region":"south",
+            "state":"virginia"
+        },
+        {
+            "name":"Trillbilly Workers Party",
+            "region":"south",
+            "state":"kentucky"
+        },
+        {
+            "name":"Dawn Michael, PhD",
+            "region":"west",
+            "state":"california"
+        },
+        {
+            "name":"Lil Spunky Skunk",
+            "region":"south",
+            "state":"texas"
+        },
+        {
+            "name":"Trumps warrior girl",
+            "region":"south",
+            "state":"florida"
+        },
+        {
+            "name":"MAGASoGood",
+            "region":"west",
+            "state":"california"
+        },
+        {
+            "name":"Toddstarnes",
+            "region":"south",
+            "state":"tennessee"
+        },
+        {
+            "name":"David Berri",
+            "region":"west",
+            "state":"utah"
+        },
+        {
+            "name":"ShakeZula",
+            "region":"northeast",
+            "state":"new york"
+        },
+        {
+            "name":"Brit Hume",
+            "region":"south",
+            "state":"tennessee"
+        },
+        {
+            "name":"J_Patriot",
+            "region":"midwest",
+            "state":"indiana"
+        },
+        {
+            "name":"Adam Curry",
+            "region":"south",
+            "state":"texas"
+        },
+        {
+            "name":"Kathy#MAGAPatriot#KAG",
+            "region":"northeast",
+            "state":"new york"
+        },
+        {
+            "name":"Howard Dean",
+            "region":"northeast",
+            "state":"vermont"
+        },
+        {
+            "name":"NewsBuster",
+            "region":"south",
+            "state":"district of columbia"
+        },
+        {
+            "name":"Ernest Madden",
+            "region":"south",
+            "state":"kentucky"
+        },
+        {
+            "name":"First Words",
+            "region":"south",
+            "state":"texas"
+        },
+        {
+            "name":"Martha C. Wolkonsky",
+            "region":"south",
+            "state":"tennessee"
+        },
+        {
+            "name":"Cruz Cerda III, PhD",
+            "region":"west",
+            "state":"california"
+        }, 
+        {
+            "name":"Bill Cassidy M.D",
+            "region":""
+        }
+    ]
+}
