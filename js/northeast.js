@@ -1,4 +1,14 @@
 const particles = [];
+// let json;
+// let data;
+
+// function preload(){
+//     json = loadJSON("regions.json");
+// }
+
+// function getIt(){
+//     data = json.region;
+// }
 
 function setup(){
     let myCanvas2 = createCanvas(800, 550);
@@ -6,6 +16,7 @@ function setup(){
     for(let i = 0; i < 130; i++){
         particles[i] = new Particles();
     }
+    // console.log(json);
 }
 
 function draw(){
