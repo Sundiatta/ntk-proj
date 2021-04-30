@@ -226,12 +226,12 @@ a:visited{
 }
 
 #zine-pdf-wrap{
-    width: 500px;
+    width: 800px;
     margin: 0 auto;
 }
 
 #zine-text{
-    width: 3em;
+    width: 5em;
     margin: 0 auto;
     padding-top: 0.05em;
     padding-bottom: 0.2em;
